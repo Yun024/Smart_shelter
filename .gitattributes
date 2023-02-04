@@ -1,1 +1,4 @@
 Smartshelter_project/**/*.R linguist-detectable=true
+Exploratory_Data_Analysis/**/*.R linguist-detectable=true
+Machine_Learning/**/*.R linguist-detectable=true
+PreProcessing/**/*.R linguist-detectable=true
