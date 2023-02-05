@@ -1,4 +1,12 @@
-Smartshelter_project/**/*.R linguist-detectable=true
-Exploratory_Data_Analysis/**/*.R linguist-detectable=true
-Machine_Learning/**/*.R linguist-detectable=true
-PreProcessing/**/*.R linguist-detectable=true
+Exploratory_Data_Analysis/** linguist-documentation=false
+Exploratory_Data_Analysis/demo/** linguist-vendored=false
+
+Machine_Learning/** linguist-documentation=false
+Machine_Learning/demo/** linguist-vendored=false
+
+PreProcessing/** linguist-documentation=false
+PreProcessing/demo/** linguist-vendored=false
+
+demo/** linguist-documentation=false
+demo/** linguist-vendored=false
+
