@@ -1,7 +1,7 @@
 # *.as linguist-language=R
 # *.as linguist-language=ipynb
 
-# PreProcessing/**/*.ipynb linguist-detectable=true
+PreProcessing/*.ipynb linguist-detectable=true
 # PreProcessing/**/*.R linguist-detectable=true
 
 # Machine_Learning/**/*.R linguist-detectable=true
