@@ -7,6 +7,6 @@ Machine_Learning/** linguist-vendored=false
 Exploratory_Data_Analysis/** linguist-documentation=false
 Exploratory_Data_Analysis/** linguist-vendored=false
 
-*.linguist-vendored
-*.ipynb linguist-vendored=false
-*.R linguist-vendored=false
+**/*.linguist-vendored
+**/*.ipynb linguist-vendored=false
+**/*.R linguist-vendored=false
