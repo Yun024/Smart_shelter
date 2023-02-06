@@ -1,14 +1,12 @@
-# *.as linguist-language=R
-# *.as linguist-language=ipynb
+PreProcessing/** linguist-documentation=false
+PreProcessing/** linguist-vendored=false
 
-PreProcessing/*.ipynb linguist-detectable=true
-PreProcessing/*.R linguist-detectable=true
+Machine_Learning/** linguist-documentation=false
+Machine_Learning/** linguist-vendored=false
 
-# Machine_Learning/**/*.R linguist-detectable=true
-# Machine_Learning/**/*.ipynb linguist-detectable=true
+Exploratory_Data_Analysis/** linguist-documentation=false
+Exploratory_Data_Analysis/** linguist-vendored=false
 
-# Exploratory_Data_Analysis/**/*.R linguist-detectable=true
-# Exploratory_Data_Analysis/**/*.ipynb linguist-detectable=true
-
-Smartshelter_project/**/*.ipynb linguist-detectable=true
-Smartshelter_project/**/*.R linguist-detectable=true
+*.linguist-vendored
+*.ipynb linguist-vendored=false
+*.R linguist-vendored=false
