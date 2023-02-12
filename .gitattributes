@@ -1,31 +1,32 @@
-PreProcessing/** linguist-documentation=false
-PreProcessing/** linguist-vendored=false
+# PreProcessing/** linguist-documentation=false
+# PreProcessing/** linguist-vendored=false
 
-Machine_Learning/** linguist-documentation=false
-Machine_Learning/** linguist-vendored=false
+# Machine_Learning/** linguist-documentation=false
+# Machine_Learning/** linguist-vendored=false
 
-Exploratory_Data_Analysis/** linguist-documentation=false
-Exploratory_Data_Analysis/** linguist-vendored=false
+# Exploratory_Data_Analysis/** linguist-documentation=false
+# Exploratory_Data_Analysis/** linguist-vendored=false
 
-###############################################################
-Exploratory_Data_Analysis/**/*.ipynb linguist-vendored=false
-Exploratory_Data_Analysis/**/*.R linguist-vendored=false
+# ###############################################################
+# Exploratory_Data_Analysis/**/*.ipynb linguist-vendored=false
+# Exploratory_Data_Analysis/**/*.R linguist-vendored=false
 
-Machine_Learning/**/*.ipynb linguist-vendored=false
-Machine_Learning/**/*.R linguist-vendored=false
+# Machine_Learning/**/*.ipynb linguist-vendored=false
+# Machine_Learning/**/*.R linguist-vendored=false
 
-PreProcessing/**/*.ipynb linguist-vendored=false
-PreProcessing/**/*.R linguist-vendored=false
+# PreProcessing/**/*.ipynb linguist-vendored=false
+# PreProcessing/**/*.R linguist-vendored=false
 
-###############################################################
-Exploratory_Data_Analysis/*.ipynb linguist-vendored=false
-Exploratory_Data_Analysis/*.R linguist-vendored=false
+# ###############################################################
+# Exploratory_Data_Analysis/*.ipynb linguist-vendored=false
+# Exploratory_Data_Analysis/*.R linguist-vendored=false
 
-Machine_Learning/*.ipynb linguist-vendored=false
-Machine_Learning/*.R linguist-vendored=false
+# Machine_Learning/*.ipynb linguist-vendored=false
+# Machine_Learning/*.R linguist-vendored=false
 
-PreProcessing/*.ipynb linguist-vendored=false
-PreProcessing/*.R linguist-vendored=false
+# PreProcessing/*.ipynb linguist-vendored=false
+# PreProcessing/*.R linguist-vendored=false
 
 
-
+Smartshelter_project/**/*.R linguist-detectable=true
+Smartshelter_project/**/*.ipynb linguist-detectable=true
