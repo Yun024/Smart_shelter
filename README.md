@@ -48,18 +48,18 @@
 
 
 ## Contents
-### 1. EDA : *[Readme바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/Exploratory_Data_Analysis/EDA_README.md)*
+### 1. EDA : *[바로가기](https://github.com/Yun024/Smartshelter_project/tree/main/Exploratory_Data_Analysis)*
 * 대전 민원 분석(워드클라우드)
 * 탐색적 데이터 분석 전 전처리
 * 연속형 변수 상관계수 히트맵
 
-### 2. PreProcessing : *[Readme바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/PreProcessing/PreProcessing_README.md)*
+### 2. PreProcessing : *[바로가기](https://github.com/Yun024/Smartshelter_project/tree/main/PreProcessing)*
 * 승차객 그룹 평균
 * 위도 경도 전처리
 * 인구 전처리
 * 최종 전처리 및 데이터 병합
 
-### 3. Clustering : *[Readme바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/Machine_Learning/Clustering_README.md)*
+### 3. Clustering : *[바로가기](https://github.com/Yun024/Smartshelter_project/tree/main/Machine_Learning)*
 * Kmeans
 * DBSCAN
 * GMM
