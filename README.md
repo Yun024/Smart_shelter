@@ -40,26 +40,26 @@
 |2|대전 시내버스 이용량 데이터|csv|50,449건|교통데이터 DW시스템|
 |3|대전 시내버스 배치시간 별 운행 데이터|csv||대전교통정보센터|
 |4|대전광역시 취약계층 복지건물 현황 데이터|csv||대전광역시청|
-|5|대전 유·초·중·고 데이터|csv||대전광역시교육청|
-|6|대전 미세먼지 발생 및 배출 시설 데이터|csv|2,830건|공공데이터포털|
-|7|대전 구별 및 읍면동 연령별_인구 데이터|csv|790건|대전광역시청|
-|8|대전 지하철 위치정보 데이터|shp||Google Map|
+|5|대전 유·초·중·고 400m 버퍼데이터|csv||대전광역시교육청|
+|6|대전 미세먼지 발생 및 배출 시설 400m 버퍼데이터|csv|2,830건|공공데이터포털|
+|7|대전 구별 및 읍면동 연령별_인구 400m 버퍼데이터|csv|790건|대전광역시청|
+|8|대전 지하철 위치정보 400m 버퍼데이터|shp||Google Map|
 |9|대전 민원 텍스트 데이터|txt|373건|대전지역 사회문제 은행|
 
 
 ## Contents
-### 1. EDA : *[바로가기](https://github.com/Yun024/Smartshelter_project/tree/main/Exploratory_Data_Analysis)*
+### 1. EDA : *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/1.Exploratory_Data_Analysis/README.md)*
 * 대전 민원 분석(워드클라우드)
 * 탐색적 데이터 분석 전 전처리
 * 연속형 변수 상관계수 히트맵
 
-### 2. PreProcessing : *[바로가기](https://github.com/Yun024/Smartshelter_project/tree/main/PreProcessing)*
-* 승차객 그룹 평균
-* 위도 경도 전처리
-* 인구 전처리
-* 최종 전처리 및 데이터 병합
+### 2. PreProcessing : *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/2.PreProcessing/README.md)*
+* 정류장 별 승하차객 전처리
+* 정류장 위도경도 전처리
+* 읍면동 별 거주인구 전처리
+* 데이터 병합_최종 전처리
 
-### 3. Clustering : *[바로가기](https://github.com/Yun024/Smartshelter_project/tree/main/Machine_Learning)*
+### 3. Clustering : *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/README.md)*
 * Kmeans
 * DBSCAN
 * GMM
