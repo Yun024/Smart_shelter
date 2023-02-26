@@ -6,7 +6,7 @@
 - 파악한 특성을 토대로 스마트 쉘터를 설치하기 위한 최적의 조건을 가진 집단 선택 
 ```
 -------------
-## PCA
+## PCA *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/PCA_Kmeans_%EC%B5%9C%EC%A2%851.ipynb)*
 
 ### Scree plot을 이용한 차원 선택 
 ![image](https://user-images.githubusercontent.com/52143231/221378010-3839938e-10fc-445a-9790-2bede6554a68.png)
@@ -20,7 +20,7 @@
 
 ------------
 
-## Kmeans
+## Kmeans *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/PCA_Kmeans_%EC%B5%9C%EC%A2%851.ipynb)*
 
 ### Elbow method
 ![image](https://user-images.githubusercontent.com/52143231/221396481-86b81a72-2a9f-4395-8eaa-7c11c22ab0f0.png)
@@ -37,7 +37,7 @@
 
 -----------------
 
-## DBSCAN
+## DBSCAN *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/DBSCAN_%EC%B5%9C%EC%A2%852.ipynb)*
 
 ### 군집 별 시각화
 <img src="https://user-images.githubusercontent.com/52143231/221398220-d5f2b02f-f12e-488b-8b6d-1c5b8844b9f5.png" width = "450" height ="250">
@@ -53,7 +53,7 @@
 
 ----------------
 
-## GMM
+## GMM *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/GMM_%EC%B5%9C%EC%A2%853.ipynb)*
 
 ### BIC plot
 
@@ -71,7 +71,7 @@
 
 ---------------------------
 
-## 시군구 별 정류장 순위 산출 
+## 시군구 별 정류장 순위 산출 *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/%EA%B0%80%EC%A4%91%EC%B9%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%20%EB%B3%84%20%EC%A0%95%EB%A5%98%EC%9E%A5%20%EC%88%9C%EC%9C%84%20%EC%B6%94%EC%B6%9C.R)*
 ![image](https://user-images.githubusercontent.com/52143231/221399320-474dee92-1f43-45e0-aa5a-8d6d43235ea1.png)
 
 - 정류장 순위분석에 사용할 변수 선택 
