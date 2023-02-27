@@ -6,7 +6,7 @@
 - 파악한 특성을 토대로 스마트 쉘터를 설치하기 위한 최적의 조건을 가진 집단 선택 
 ```
 -------------
-## PCA *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/PCA_Kmeans_%EC%B5%9C%EC%A2%851.ipynb)*
+## PCA *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/PCA_Kmeans_%EC%B5%9C%EC%A2%851.py)*
 
 ### Scree plot을 이용한 차원 선택 
 ![image](https://user-images.githubusercontent.com/52143231/221378010-3839938e-10fc-445a-9790-2bede6554a68.png)
@@ -20,7 +20,7 @@
 
 ------------
 
-## Kmeans *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/PCA_Kmeans_%EC%B5%9C%EC%A2%851.ipynb)*
+## Kmeans *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/PCA_Kmeans_%EC%B5%9C%EC%A2%851.py)*
 
 ### Elbow method
 ![image](https://user-images.githubusercontent.com/52143231/221396481-86b81a72-2a9f-4395-8eaa-7c11c22ab0f0.png)
@@ -37,7 +37,7 @@
 
 -----------------
 
-## DBSCAN *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/DBSCAN_%EC%B5%9C%EC%A2%852.ipynb)*
+## DBSCAN *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/DBSCAN_%EC%B5%9C%EC%A2%852.PY)*
 
 ### 군집 별 시각화
 <img src="https://user-images.githubusercontent.com/52143231/221398220-d5f2b02f-f12e-488b-8b6d-1c5b8844b9f5.png" width = "450" height ="250">
@@ -53,7 +53,7 @@
 
 ----------------
 
-## GMM *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/GMM_%EC%B5%9C%EC%A2%853.ipynb)*
+## GMM *[바로가기](https://github.com/Yun024/Smartshelter_project/blob/main/3.Clustering/GMM_%EC%B5%9C%EC%A2%853.py)*
 
 ### BIC plot
 
